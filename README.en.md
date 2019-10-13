@@ -1,6 +1,6 @@
 # 迎风启航(Set Sail into the Wind)
 
-Languages: [Chinese](/README.zh.md) | English(This Version)
+Languages: [Chinese](/README.zh.md) | English (This Version)
 
 * Composition/Mixing: Sako ([NetEase Musician](https://music.163.com/user/home?id=264455988) /
                             [BiliBili](https://space.bilibili.com/3273488))
