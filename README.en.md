@@ -1,10 +1,16 @@
-# {Song Title}
+# 迎风启航(Set Sail into the Wind)
 
-* Vocal: [{Singer1}](https://synthv.fandom.com/wiki/Singer1) / [{Singer2}](https://synthv.fandom.com/wiki/Singer2)
-* {Other info}
+* Composition/Mixing: Sako ([NetEase Musician](https://music.163.com/user/home?id=264455988) /
+                            [BiliBili](https://space.bilibili.com/3273488))
+* Lyric: 🌆
+* Tuning: Iluminar ([BiliBili](https://space.bilibili.com/423002751) /
+                    [YouTube](https://www.youtube.com/channel/UCj3FBNHT6DYGN43a3oByBgg) /
+                    [Weibo](https://www.weibo.com/u/7101455932) /
+                    [Twitter](https://twitter.com/iluminar_yi))
+* Vocal: [AiKO](https://synthv.fandom.com/wiki/AiKO)
 * Synthesizer V (SynthV): https://synthesizerv.com/
 
-Links were accessed on {mm/dd/yyyy}.
+Links were accessed on 10/13/2019.
 
 This work uses [`synthv-utils`](https://github.com/iluminar-yi/synthv-utils) to facilitate production and
 to prettify the `.s5p` project file to make it more readable.
@@ -18,20 +24,14 @@ git checkout add-timbre-params
 The list of tags are visible in multiple place, including 
 [Releases](https://github.com/iluminar-yi/synthv-song-template/releases).
 
-## Authorizations
-The use of {something} has been authorized by [{Someone}](https://www.weibo.com/someone) on mm/dd/yyyy
-as shown in {some file}.
+## License
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or
+send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+A copy of the `CC-BY-4.0` license can be found in [`LICENSE`](/LICENSE)
 
-Links were accessed on {mm/dd/yyyy}.
+Links were accessed on 10/13/2019.
 
 ## Tool Versions
-* Synthesizer V Build {number}
-* {Singer1} Build {number}
-* REAPER v{number}
-
-## Notice
-My work is done on the `.s5p` files and `.RPP` files found in this repository,
-as well as any supporting documents. These materials are licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
-whose copy can also be found in [`LICENSE`](/LICENSE). Should any other content infringes the copyright of the respective copyright owner,
-please open an [Issue](https://github.com/iluminar-yi/synthv-song-template/issues) and I will remove the 
-infringing contents using my best and reasonable judgements and efforts.
+* Synthesizer V Build 018 on macOS 10.14.6
+* AiKO Build 003/艾可 (AiKO) (ver. 3)
