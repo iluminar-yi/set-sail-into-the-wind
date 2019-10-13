@@ -13,7 +13,7 @@
 Links were accessed on 10/13/2019.
 
 This work uses [`synthv-utils`](https://github.com/iluminar-yi/synthv-utils) to facilitate production and
-to prettify the `.s5p` project file to make it more readable.
+to prettify the `.s5p` project file to make it more readable and easier to track changes using `git`.
 
 This is a `git` repo, which means you can navigate to a previous version of the project easily.
 I have created tags along this process, so that you can check out the tag and listen to what it sounded like.
@@ -21,8 +21,9 @@ For example:
 ```bash
 git checkout add-timbre-params
 ```
-The list of tags are visible in multiple place, including 
-[Releases](https://github.com/iluminar-yi/synthv-song-template/releases).
+The list of tags are visible in multiple places, including 
+[Releases](https://github.com/iluminar-yi/synthv-song-template/releases),
+where rendered output files are published.
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License.
