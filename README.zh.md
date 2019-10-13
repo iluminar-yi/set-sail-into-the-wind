@@ -24,12 +24,12 @@ git checkout add-timbre-params
 ```
 有很多地方上可以查看所有的标签，包括[Releases](https://github.com/iluminar-yi/synthv-song-template/releases)，这也是渲染后的文件存放地。
 
-## License
+## 许可协议
 本作品采用`知识共享 署名 4.0 国际 (CC-BY-4.0)`许可协议进行许可。要查看该许可协议，可访问
 http://creativecommons.org/licenses/by/4.0/ 或者写信到
 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA。
 
-[`LICENSE`](/LICENSE)文件是`CC-BY-4.0`许可的一个副本。 
+[`LICENSE`](/LICENSE)文件是`CC-BY-4.0`许可协议的一个副本。 
 
 以上链接于2019/10/13访问。
 
