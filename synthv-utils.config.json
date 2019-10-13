@@ -1,0 +1,7 @@
+{
+  "prettify-json": {
+    "input": "./迎风启航.s5p",
+    "output": "./迎风启航.s5p",
+    "indent": 2
+  }
+}
