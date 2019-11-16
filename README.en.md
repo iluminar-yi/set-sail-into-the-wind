@@ -4,7 +4,7 @@ Languages: [Chinese](/README.zh.md) | English (This Version)
 
 * Composition/Mixing: Sako ([NetEase Musician](https://music.163.com/user/home?id=264455988) /
                             [BiliBili](https://space.bilibili.com/3273488))
-* Lyric: 🌆
+* Lyric: 窒息
 * Tuning: Iluminar ([BiliBili](https://space.bilibili.com/423002751) /
                     [YouTube](https://www.youtube.com/channel/UCj3FBNHT6DYGN43a3oByBgg) /
                     [Weibo](https://www.weibo.com/u/7101455932) /

@@ -4,7 +4,7 @@ Languages: Chinese (This Version) | [English](/README.en.md)
 
 * 作曲/编曲/混音: Sako ([网易音乐人](https://music.163.com/user/home?id=264455988) /
                       [BiliBili](https://space.bilibili.com/3273488))
-* 作词: 🌆
+* 作词: 窒息
 * 调教: Iluminar ([BiliBili](https://space.bilibili.com/423002751) /
                  [YouTube](https://www.youtube.com/channel/UCj3FBNHT6DYGN43a3oByBgg) /
                  [微博](https://www.weibo.com/u/7101455932) /
