@@ -7765,6 +7765,69 @@
           "pitch": 64
         },
         {
+          "onset": 354034800000,
+          "duration": 705600000,
+          "lyric": "gai",
+          "comment": "改",
+          "pitch": 65
+        },
+        {
+          "onset": 354740400000,
+          "duration": 352800000,
+          "lyric": "bian",
+          "comment": "变",
+          "pitch": 65
+        },
+        {
+          "onset": 355093200000,
+          "duration": 1058400000,
+          "lyric": "de",
+          "comment": "的",
+          "pitch": 65
+        },
+        {
+          "onset": 356151600000,
+          "duration": 705600000,
+          "lyric": "wei",
+          "comment": "未",
+          "pitch": 64
+        },
+        {
+          "onset": 356857200000,
+          "duration": 1587600000,
+          "lyric": "lai",
+          "comment": "来",
+          "pitch": 64
+        },
+        {
+          "onset": 359856000000,
+          "duration": 705600000,
+          "lyric": "yi",
+          "comment": "依",
+          "pitch": 62
+        },
+        {
+          "onset": 360561600000,
+          "duration": 441000000,
+          "lyric": "ran",
+          "comment": "然",
+          "pitch": 62
+        },
+        {
+          "onset": 361002600000,
+          "duration": 705600000,
+          "lyric": "huai",
+          "comment": "怀",
+          "pitch": 65
+        },
+        {
+          "onset": 361708200000,
+          "duration": 970200000,
+          "lyric": "you",
+          "comment": "有",
+          "pitch": 64
+        },
+        {
           "onset": 362678400000,
           "duration": 352800000,
           "lyric": "chong",
@@ -8341,7 +8404,7 @@
       ],
       "gsEvents": null,
       "mixer": {
-        "gainDecibel": -8,
+        "gainDecibel": -3,
         "pan": 0,
         "muted": false,
         "solo": false,
@@ -8572,7 +8635,7 @@
       ],
       "gsEvents": null,
       "mixer": {
-        "gainDecibel": -8,
+        "gainDecibel": -3,
         "pan": 0,
         "muted": false,
         "solo": false,
