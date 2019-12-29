@@ -2035,7 +2035,7 @@
           "duration": 573300000,
           "lyric": "ei",
           "comment": "诶",
-          "pitch": 67,
+          "pitch": 70,
           "sublib": "F4",
           "dF0Vbr": 0
         },
@@ -2044,7 +2044,7 @@
           "duration": 441000000,
           "lyric": "ei",
           "comment": "",
-          "pitch": 67,
+          "pitch": 70,
           "sublib": "F4",
           "dF0Vbr": 0
         },
@@ -2053,7 +2053,7 @@
           "duration": 882000000,
           "lyric": "ei",
           "comment": "",
-          "pitch": 68,
+          "pitch": 71,
           "sublib": "F4",
           "dF0Vbr": 0
         },
@@ -2062,7 +2062,7 @@
           "duration": 485100000,
           "lyric": "bao",
           "comment": "抱",
-          "pitch": 69,
+          "pitch": 72,
           "sublib": "F4"
         },
         {
@@ -2070,7 +2070,7 @@
           "duration": 705600000,
           "lyric": "bao",
           "comment": "抱",
-          "pitch": 67,
+          "pitch": 70,
           "sublib": "F4"
         },
         {
@@ -2078,7 +2078,7 @@
           "duration": 1058400000,
           "lyric": "qian",
           "comment": "歉",
-          "pitch": 67,
+          "pitch": 70,
           "sublib": "F4"
         },
         {
@@ -2833,14 +2833,14 @@
         {
           "onset": 364795200000,
           "duration": 705600000,
-          "lyric": "wei",
+          "lyric": "qi",
           "comment": "期",
           "pitch": 64
         },
         {
           "onset": 365500800000,
           "duration": 1940400000,
-          "lyric": "lai",
+          "lyric": "dai",
           "comment": "待",
           "pitch": 67
         },
@@ -6036,29 +6036,29 @@
           "pitch": 64
         },
         {
-          "onset": 57771000000,
+          "onset": 57859200000,
           "duration": 1411200000,
           "lyric": "ha",
           "comment": "",
           "pitch": 59
         },
         {
-          "onset": 59182200000,
-          "duration": 1411200000,
+          "onset": 59270400000,
+          "duration": 1764000000,
           "lyric": "a ",
           "comment": "",
           "pitch": 60
         },
         {
-          "onset": 80350200000,
-          "duration": 1499400000,
+          "onset": 80438400000,
+          "duration": 1411200000,
           "lyric": "ha",
           "comment": "",
-          "pitch": 67
+          "pitch": 62
         },
         {
           "onset": 81849600000,
-          "duration": 1411200000,
+          "duration": 1764000000,
           "lyric": "a",
           "comment": "",
           "pitch": 60
@@ -6463,8 +6463,8 @@
           "pitch": 64
         },
         {
-          "onset": 130095000000,
-          "duration": 441000000,
+          "onset": 130183200000,
+          "duration": 352800000,
           "lyric": "xin",
           "comment": "",
           "pitch": 65
@@ -6890,8 +6890,8 @@
           "pitch": 64
         },
         {
-          "onset": 166433400000,
-          "duration": 441000000,
+          "onset": 166521600000,
+          "duration": 352800000,
           "lyric": "jiu",
           "comment": "",
           "pitch": 62
@@ -6939,29 +6939,29 @@
           "pitch": 64
         },
         {
-          "onset": 205241400000,
+          "onset": 205329600000,
           "duration": 1411200000,
           "lyric": "ha",
           "comment": "",
           "pitch": 59
         },
         {
-          "onset": 206652600000,
-          "duration": 1411200000,
+          "onset": 206740800000,
+          "duration": 1764000000,
           "lyric": "-",
           "comment": "",
           "pitch": 60
         },
         {
-          "onset": 227820600000,
-          "duration": 1499400000,
+          "onset": 227908800000,
+          "duration": 1411200000,
           "lyric": "ha",
           "comment": "",
           "pitch": 62
         },
         {
           "onset": 229320000000,
-          "duration": 1411200000,
+          "duration": 1764000000,
           "lyric": "-",
           "comment": "",
           "pitch": 60
@@ -7289,8 +7289,8 @@
           "pitch": 64
         },
         {
-          "onset": 277565400000,
-          "duration": 441000000,
+          "onset": 277653600000,
+          "duration": 352800000,
           "lyric": "xin",
           "comment": "",
           "pitch": 65
@@ -7528,14 +7528,14 @@
         },
         {
           "onset": 296704800000,
-          "duration": 617400000,
+          "duration": 705600000,
           "lyric": "lu",
           "comment": "",
           "pitch": 69
         },
         {
-          "onset": 297322200000,
-          "duration": 441000000,
+          "onset": 297410400000,
+          "duration": 352800000,
           "lyric": "qu",
           "comment": "",
           "pitch": 67
@@ -7788,14 +7788,14 @@
         {
           "onset": 364795200000,
           "duration": 705600000,
-          "lyric": "wei",
+          "lyric": "qi",
           "comment": "",
           "pitch": 62
         },
         {
           "onset": 365500800000,
           "duration": 1940400000,
-          "lyric": "lai",
+          "lyric": "dai",
           "comment": "",
           "pitch": 64
         },
@@ -7863,8 +7863,8 @@
           "pitch": 64
         },
         {
-          "onset": 373527000000,
-          "duration": 441000000,
+          "onset": 373615200000,
+          "duration": 352800000,
           "lyric": "xin",
           "comment": "",
           "pitch": 65
@@ -8388,6 +8388,62 @@
       "dbDefaults": {},
       "notes": [
         {
+          "onset": 57859200000,
+          "duration": 1411200000,
+          "lyric": "ha",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 59270400000,
+          "duration": 1764000000,
+          "lyric": "a ",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 80438400000,
+          "duration": 1411200000,
+          "lyric": "ha",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 81849600000,
+          "duration": 1764000000,
+          "lyric": "a",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 205329600000,
+          "duration": 1411200000,
+          "lyric": "ha",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 206740800000,
+          "duration": 1764000000,
+          "lyric": "a ",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 227908800000,
+          "duration": 1411200000,
+          "lyric": "ha",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 229320000000,
+          "duration": 1764000000,
+          "lyric": "a",
+          "comment": "",
+          "pitch": 64
+        },
+        {
           "onset": 396194400000,
           "duration": 352800000,
           "lyric": "ke",
@@ -8455,7 +8511,7 @@
           "duration": 1058400000,
           "lyric": "xiang",
           "comment": "向",
-          "pitch": 62
+          "pitch": 64
         },
         {
           "onset": 403956000000,
