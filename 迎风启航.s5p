@@ -19,7 +19,9 @@
       "dbName": "艾可 (AiKO)",
       "color": "ff2fe815",
       "displayOrder": 0,
-      "dbDefaults": {},
+      "dbDefaults": {
+        "dF0Vbr": 0
+      },
       "notes": [
         {
           "onset": 4939200000,
@@ -3395,7 +3397,8 @@
       "displayOrder": 1,
       "dbDefaults": {
         "tension": -0.5,
-        "gender": 0.2000000029802322
+        "gender": 0.2000000029802322,
+        "dF0Vbr": 0
       },
       "notes": [
         {
@@ -6079,7 +6082,8 @@
       "displayOrder": 2,
       "dbDefaults": {
         "tension": -0.5,
-        "gender": 0.2000000029802322
+        "gender": 0.2000000029802322,
+        "dF0Vbr": 0
       },
       "notes": [
         {
@@ -6269,7 +6273,11 @@
       "dbName": "艾可 (AiKO)",
       "color": "ff1579e8",
       "displayOrder": 3,
-      "dbDefaults": {},
+      "dbDefaults": {
+        "tension": -0.5,
+        "gender": 0.2000000029802322,
+        "dF0Vbr": 0
+      },
       "notes": [
         {
           "onset": 260366400000,
